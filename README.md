@@ -7,9 +7,10 @@ Welcome to my Data Science Portfolio! This repository contains a curated selecti
 
 ## 👤 About Me
 
-Hi, I'm [Your Name] (aka [Carde177] on GitHub) — a [Your Background: e.g., aspiring data scientist / statistician / ML enthusiast] with a passion for using data to uncover insights and build intelligent systems. I'm experienced with Python, machine learning, and data visualization, and I'm continuously learning and experimenting with new tools.
+Hi, I'm Joshua Cardenas — a current Data Analyst with a passion for using data to uncover insights and build intelligent pipelines. 
+I'm experienced with Python, machine learning, and data visualization, and I'm continuously learning and experimenting with new tools.
 
-📫 Reach me at: [Your Email or LinkedIn]
+📫 Reach me at: Cardenasjoshua476@gmail.com or linkedin: https://www.linkedin.com/in/joshua-cardenas1/
 
 ---
 
@@ -21,7 +22,7 @@ Hi, I'm [Your Name] (aka [Carde177] on GitHub) — a [Your Background: e.g., asp
 | [Project 2 Title](link-to-folder-or-notebook) | A brief explanation of the problem solved | `NLP`, `transformers`, `seaborn` |
 | [Project 3 Title](link-to-folder-or-notebook) | Example: Predictive modeling on real-world data | `XGBoost`, `EDA`, `Jupyter` |
 
-> 🔗 Click project titles to view notebooks and results.
+>  Click project titles to view notebooks and results.
 
 ---
 
@@ -48,6 +49,4 @@ Hi, I'm [Your Name] (aka [Carde177] on GitHub) — a [Your Background: e.g., asp
 ![Seaborn](https://img.shields.io/badge/-Seaborn-1C2833?style=flat&logo=python&logoColor=white)
 
 ---
-
-## 📁 Repository Structure
 
